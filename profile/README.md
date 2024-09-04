@@ -6,5 +6,12 @@ Organization Repositories
 
 | Repo                   | Latest Release |
 | ---                    | ---            |
+| opengamedata-core      | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-core?display_name=release) |
 | opengamedata-api-utils | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-utils?display_name=release) |
 
+Organization Actions
+
+| Action                            | Latest Release |
+| ---                               | ---            |
+| actions-setup-ogd-py-dependencies | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-setup-ogd-py-dependencies?display_name=release) |
+| actions-setup-ogd-py-build        | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-setup-ogd-py-build?display_name=release) |
