@@ -6,23 +6,21 @@ Open Game Data is an open-source and community-maintained technology for conduct
 
 ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release)
 
-## Organization Packages
+## Organization Project Versions
 
-### Data Analysis Packages
-
-| Category | Repo                        | Latest Release |
+| Category | Project                     | Latest Release |
 | ---      | ---                         | ---            |
 | Analysis | ---                         | ---            |
-|          | [opengamedata-core](https://github.com/opengamedata/opengamedata-core)           | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-core?display_name=release) |
-|          | [OGDUtils](https://github.com/opengamedata/OGDUtils)                             | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/OGDUtils?display_name=release) |
+|          | [opengamedata-core](https://github.com/opengamedata/opengamedata-core)      | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-core?display_name=release) |
+|          | [OGDUtils](https://github.com/opengamedata/OGDUtils)                        | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/OGDUtils?display_name=release) |
 | Logging  | ---                         | ---            |
-|          | opengamedata-js-log         | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-js-log?display_name=release) |
-|          | opengamedata-unity          | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-unity?display_name=release) |
+|          | [opengamedata-js-log](https://github.com/opengamedata/opengamedata-js-log)  | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-js-log?display_name=release) |
+|          | [opengamedata-unity](https://github.com/opengamedata/opengamedata-unity)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-unity?display_name=release) |
 | APIs     | ---                         | ---            |
-|          | opengamedata-api-data       | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-data?display_name=release) |
-|          | opengamedata-api-files      | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-files?display_name=release) |
-|          | opengamedata-api-gamestates | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-gamestates?display_name=release) |
-|          | opengamedata-api-utils      | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-utils?display_name=release) |
+|          | [DataAPI](https://github.com/opengamedata/opengamedata-api-data)            | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-data?display_name=release) |
+|          | [FileAPI](https://github.com/opengamedata/opengamedata-core)                | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-files?display_name=release) |
+|          | [GameStateAPI](https://github.com/opengamedata/opengamedata-api-gamestates) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-gamestates?display_name=release) |
+|          | [APIUtils](https://github.com/opengamedata/opengamedata-core)               | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-api-utils?display_name=release) |
 
 ## Organization Actions
 
