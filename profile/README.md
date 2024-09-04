@@ -13,5 +13,6 @@ Organization Actions
 
 | Action                            | Latest Release |
 | ---                               | ---            |
+| actions-openconnect-vpn           | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-openconnect-vpn?display_name=release) |
 | actions-setup-ogd-py-dependencies | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-setup-ogd-py-dependencies?display_name=release) |
 | actions-setup-ogd-py-build        | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-setup-ogd-py-build?display_name=release) |
