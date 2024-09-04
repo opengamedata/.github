@@ -8,19 +8,20 @@ Open Game Data is an open-source and community-maintained technology for conduct
 
 ## Organization Packages
 
+### Data Analysis Packages
+
+| Category | Repo                        | Latest Release |
+| ---      | ---                         | ---            |
+| Analysis | ---                         | ---            |
+|          | opengamedata-core           | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-core?display_name=release) |
+|          | OGDUtils                    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/OGDUtils?display_name=release) |
+
 ### Data Logging Packages
 
 | Repo                | Latest Release |
 | ---                 | ---            |
 | opengamedata-js-log | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-js-log?display_name=release) |
 | opengamedata-unity  | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-unity?display_name=release) |
-
-### Data Analysis Packages
-
-| Repo                        | Latest Release |
-| ---                         | ---            |
-| opengamedata-core           | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-core?display_name=release) |
-| OGDUtils                    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/OGDUtils?display_name=release) |
 
 ### APIs
 
