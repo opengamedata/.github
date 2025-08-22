@@ -8,12 +8,22 @@ Open Game Data is an open-source and community-maintained technology for conduct
 
 ## Organization Project Versions
 
+### Cross-Organization Projects
+
+| Project                     | Latest Release | CI Script Status |
+| ---                         | ---            | ---              |
+|                             |                |                  |
+| [opengamedata-common](https://github.com/opengamedata/ogd-common) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-common?display_name=release) | ![Common CI](https://github.com/opengamedata/ogd-common/actions/workflows/CI_common.yml/badge.svg)   |
+| [opengamedata-core](https://github.com/opengamedata/ogd-core)     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-core?display_name=release)   | ![Core CI](https://github.com/opengamedata/opengamedata-core/actions/workflows/CI_OGD.yml/badge.svg) |
+| [opengamedata-doc](https://github.com/opengamedata/ogd-doc) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-doc?display_name=release) | ![Docs CI](https://github.com/opengamedata/ogd-doc/actions/workflows/publish_gh_pages.yml/badge.svg)   |
+| [opengamedata-media-package](https://github.com/opengamedata/opengamedata-media-package) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-media-package?display_name=release) | |
+| [opengamedata-platform](https://github.com/opengamedata/opengamedata-platform) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release) | |
+
 ### Analysis Tools
 
 | Project                     | Latest Release | CI Script Status |
 | ---                         | ---            | ---              |
 |                             |                |                  |
-| [opengamedata-core](https://github.com/opengamedata/ogd-core)     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-core?display_name=release)   | ![Core CI](https://github.com/opengamedata/opengamedata-core/actions/workflows/CI_OGD.yml/badge.svg) |
 | [opengamedata-samples](https://github.com/opengamedata/ogd-samples)     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-samples?display_name=release)   | |
 | [OGDUtils](https://github.com/opengamedata/OGDUtils)              | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/OGDUtils?display_name=release)   | ![OGDUtils CI](https://github.com/opengamedata/OGDUtils/actions/workflows/CI_OGDUtils.yml/badge.svg) |
 
@@ -48,16 +58,6 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | [GameStateAPI](https://github.com/opengamedata/ogd-api-gamestates)         | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-gamestates?display_name=release)  | ![GameStateAPI CI](https://github.com/opengamedata/ogd-api-gamestates/actions/workflows/CI_GameStateAPI.yml/badge.svg) |
 | [QuestionnaireAPI](https://github.com/opengamedata/ogd-api-questionnaires)         | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-questionnaires?display_name=release)  | ![QuestionnaireAPI CI](https://github.com/opengamedata/ogd-api-questionnaires/actions/workflows/questionnaireAPI_CI.yml/badge.svg) |
 | [APIUtils](https://github.com/opengamedata/ogd-api-utils)                  | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-utils?display_name=release)       | ![APIUtils CI](https://github.com/opengamedata/ogd-api-utils/actions/workflows/CI_APIUtils.yml/badge.svg) |
-
-### Cross-Organization Projects
-
-| Project                     | Latest Release | CI Script Status |
-| ---                         | ---            | ---              |
-|                             |                |                  |
-| [opengamedata-common](https://github.com/opengamedata/ogd-common) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-common?display_name=release) | ![Common CI](https://github.com/opengamedata/ogd-common/actions/workflows/CI_common.yml/badge.svg)   |
-| [opengamedata-doc](https://github.com/opengamedata/ogd-doc) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-doc?display_name=release) | ![Docs CI](https://github.com/opengamedata/ogd-doc/actions/workflows/publish_gh_pages.yml/badge.svg)   |
-| [opengamedata-media-package](https://github.com/opengamedata/opengamedata-media-package) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-media-package?display_name=release) | |
-| [opengamedata-platform](https://github.com/opengamedata/opengamedata-platform) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release) | |
 
 
 ## Organization Actions
