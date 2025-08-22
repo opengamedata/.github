@@ -35,7 +35,7 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | [opengamedata-autocoder](https://github.com/opengamedata/ogd-autocoder)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-autocoder?display_name=release)       | ![Autocoder CI](https://github.com/opengamedata/ogd-autocoder/actions/workflows/CI_Autocoder.yml/badge.svg) |
 | [opengamedata-designdash](https://github.com/opengamedata/ogd-designdash)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-designdash?display_name=release)       | ![DesignDash CI](https://github.com/opengamedata/ogd-designdash/actions/workflows/CI_designdash.yml/badge.svg) |
 | [opengamedata-monitor](https://github.com/opengamedata/ogd-monitor)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-monitor?display_name=release)       | ![Monitor CI](https://github.com/opengamedata/ogd-monitor/actions/workflows/CI_monitorAPI.yml/badge.svg) |
-| [opengamedata-website](https://github.com/opengamedata/ogd-website)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-website?display_name=release)       | ![website CI](https://github.com/opengamedata/ogd-website/actions/workflows/CI_website.yml/badge.svg) |
+| [opengamedata-website](https://github.com/opengamedata/opengamedata-website)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-website?display_name=release)       | ![website CI](https://github.com/opengamedata/opengamedata-website/actions/workflows/CI_website.yml/badge.svg) |
 
 ### Data Logging Tools
 
