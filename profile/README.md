@@ -16,15 +16,15 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | [opengamedata-common](https://github.com/opengamedata/ogd-common) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-common?display_name=release) | ![Common CI](https://github.com/opengamedata/ogd-common/actions/workflows/CI_common.yml/badge.svg)   |
 | [opengamedata-core](https://github.com/opengamedata/ogd-core)     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-core?display_name=release)   | ![Core CI](https://github.com/opengamedata/opengamedata-core/actions/workflows/CI_OGD.yml/badge.svg) |
 | [opengamedata-doc](https://github.com/opengamedata/ogd-doc) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-doc?display_name=release) | ![Docs CI](https://github.com/opengamedata/ogd-doc/actions/workflows/publish_gh_pages.yml/badge.svg)   |
-| [opengamedata-media-package](https://github.com/opengamedata/opengamedata-media-package) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-media-package?display_name=release) | |
-| [opengamedata-platform](https://github.com/opengamedata/opengamedata-platform) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release) | |
+| [opengamedata-media-package](https://github.com/opengamedata/opengamedata-media-package) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-media-package?display_name=release) | N/A |
+| [opengamedata-platform](https://github.com/opengamedata/opengamedata-platform) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release) | N/A |
 
 ### Analysis Tools
 
 | Project                     | Latest Release | CI Script Status |
 | ---                         | ---            | ---              |
 |                             |                |                  |
-| [opengamedata-samples](https://github.com/opengamedata/ogd-samples)     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-samples?display_name=release)   | |
+| [opengamedata-samples](https://github.com/opengamedata/ogd-samples)     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-samples?display_name=release)   | N/A |
 | [OGDUtils](https://github.com/opengamedata/OGDUtils)              | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/OGDUtils?display_name=release)   | ![OGDUtils CI](https://github.com/opengamedata/OGDUtils/actions/workflows/CI_OGDUtils.yml/badge.svg) |
 
 ### Web-Based Tools
@@ -43,7 +43,7 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | ---                         | ---            | ---              |
 |                             |                |                  |
 | [opengamedata-logger](https://github.com/opengamedata/ogd-logger)          | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-logger?display_name=release)          | ![Logger CI](https://github.com/opengamedata/ogd-logger/actions/workflows/CI_logger.yml/badge.svg) |
-| [opengamedata-automation](https://github.com/opengamedata/ogd-automation)          | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-automation?display_name=release)          | |
+| [opengamedata-automation](https://github.com/opengamedata/ogd-automation)          | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-automation?display_name=release)          | N/A |
 | [opengamedata-js-log](https://github.com/opengamedata/opengamedata-js-log) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-js-log?display_name=release) | ![NPM Publish](https://github.com/opengamedata/opengamedata-js-log/actions/workflows/publish_npm.yml/badge.svg) |
 | [opengamedata-unity](https://github.com/opengamedata/opengamedata-unity)   | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-unity?display_name=release)  | N/A |
 
