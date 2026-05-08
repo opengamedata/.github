@@ -43,28 +43,28 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | ---                         | ---            | ---              |
 |                             |                |                  |
 | [opengamedata-logger](https://github.com/opengamedata/ogd-logger)          | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-logger?display_name=release)          | ![Logger CI](https://github.com/opengamedata/ogd-logger/actions/workflows/CI_logger.yml/badge.svg) |
-| [opengamedata-automation](https://github.com/opengamedata/ogd-automation)          | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-automation?display_name=release)          | N/A |
+| [opengamedata-automation](https://github.com/opengamedata/ogd-automation)  | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-automation?display_name=release)          | N/A |
 | [opengamedata-js-log](https://github.com/opengamedata/opengamedata-js-log) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-js-log?display_name=release) | ![NPM Publish](https://github.com/opengamedata/opengamedata-js-log/actions/workflows/publish_npm.yml/badge.svg) |
 | [opengamedata-unity](https://github.com/opengamedata/opengamedata-unity)   | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-unity?display_name=release)  | N/A |
 
 ### Web APIs
 
-| Project                     | Latest Release | CI Script Status |
-| ---                         | ---            | ---              |
-|                             |                |                  |
-| [CodingAPI](https://github.com/opengamedata/ogd-api-coding)                    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-coding?display_name=release)        | ![DataAPI CI](https://github.com/opengamedata/ogd-api-coding/actions/workflows/codesAPI_CI.yml/badge.svg) |
-| [DataAPI](https://github.com/opengamedata/ogd-api-data)                    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-data?display_name=release)        | ![DataAPI CI](https://github.com/opengamedata/ogd-api-data/actions/workflows/CI_DataAPI.yml/badge.svg) |
-| [FileAPI](https://github.com/opengamedata/ogd-api-files)                   | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-files?display_name=release)       | ![FileAPI CI](https://github.com/opengamedata/ogd-api-files/actions/workflows/CI_FileAPI.yml/badge.svg) |
-| [GameStateAPI](https://github.com/opengamedata/ogd-api-gamestates)         | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-gamestates?display_name=release)  | ![GameStateAPI CI](https://github.com/opengamedata/ogd-api-gamestates/actions/workflows/CI_GameStateAPI.yml/badge.svg) |
-| [QuestionnaireAPI](https://github.com/opengamedata/ogd-api-questionnaires)         | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-questionnaires?display_name=release)  | ![QuestionnaireAPI CI](https://github.com/opengamedata/ogd-api-questionnaires/actions/workflows/questionnaireAPI_CI.yml/badge.svg) |
-| [APIUtils](https://github.com/opengamedata/ogd-api-utils)                  | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-utils?display_name=release)       | ![APIUtils CI](https://github.com/opengamedata/ogd-api-utils/actions/workflows/CI_APIUtils.yml/badge.svg) |
+| Project                     | Latest Release | Base URL | CI Script Status |
+| ---                         | ---            | ---      | ---              |
+|                             |                | ---      |                  |
+| [CodingAPI](https://github.com/opengamedata/ogd-api-coding)                |   | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-coding?display_name=release)        | ![DataAPI CI](https://github.com/opengamedata/ogd-api-coding/actions/workflows/codesAPI_CI.yml/badge.svg) |
+| [DataAPI](https://github.com/opengamedata/ogd-api-data)                    |   | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-data?display_name=release)        | ![DataAPI CI](https://github.com/opengamedata/ogd-api-data/actions/workflows/CI_DataAPI.yml/badge.svg) |
+| [FileAPI](https://github.com/opengamedata/ogd-api-files)                   | ogd-services.fielddaylab.wisc.edu/apis/files/latest/app.wsgi | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-files?display_name=release)       | ![FileAPI CI](https://github.com/opengamedata/ogd-api-files/actions/workflows/CI_FileAPI.yml/badge.svg) |
+| [GameStateAPI](https://github.com/opengamedata/ogd-api-gamestates)         |   | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-gamestates?display_name=release)  | ![GameStateAPI CI](https://github.com/opengamedata/ogd-api-gamestates/actions/workflows/CI_GameStateAPI.yml/badge.svg) |
+| [QuestionnaireAPI](https://github.com/opengamedata/ogd-api-questionnaires) |   | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-questionnaires?display_name=release)  | ![QuestionnaireAPI CI](https://github.com/opengamedata/ogd-api-questionnaires/actions/workflows/questionnaireAPI_CI.yml/badge.svg) |
+| [APIUtils](https://github.com/opengamedata/ogd-api-utils)                  |   | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-api-utils?display_name=release)       | ![APIUtils CI](https://github.com/opengamedata/ogd-api-utils/actions/workflows/CI_APIUtils.yml/badge.svg) |
 
 
 ## Organization Actions
 
 | Action                            | Latest Release |
 | ---                               | ---            |
-| [actions-deploy-project](https://github.com/opengamedata/actions-deploy-project)                     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-deploy-project?display_name=release) |
+| [actions-deploy-project](https://github.com/opengamedata/actions-deploy-project)                       | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-deploy-project?display_name=release) |
 | [actions-execute-testbed](https://github.com/opengamedata/actions-execute-testbed)                     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-execute-testbed?display_name=release) |
 | [actions-openconnect-vpn](https://github.com/opengamedata/actions-openconnect-vpn)                     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-openconnect-vpn?display_name=release) |
 | [actions-setup-fd-git](https://github.com/opengamedata/actions-setup-fd-git)                           | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/actions-setup-fd-git?display_name=release) |
