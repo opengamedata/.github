@@ -17,7 +17,7 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | [opengamedata-core](https://github.com/opengamedata/ogd-core)     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-core?display_name=release)   | ![Core CI](https://github.com/opengamedata/opengamedata-core/actions/workflows/CI_OGD.yml/badge.svg) |
 | [opengamedata-doc](https://github.com/opengamedata/ogd-doc) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-doc?display_name=release) | ![Docs CI](https://github.com/opengamedata/ogd-doc/actions/workflows/publish_gh_pages.yml/badge.svg)   |
 | [opengamedata-media-package](https://github.com/opengamedata/opengamedata-media-package) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-media-package?display_name=release) | N/A |
-| [opengamedata-platform](https://github.com/opengamedata/opengamedata-platform) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release) | N/A |
+| [opengamedata-standards](https://github.com/opengamedata/opengamedata-standards) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-standards?display_name=release) | N/A |
 
 ### Analysis Tools
 
@@ -36,6 +36,7 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | [opengamedata-designdash](https://github.com/opengamedata/ogd-designdash)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-designdash?display_name=release)       | ![DesignDash CI](https://github.com/opengamedata/ogd-designdash/actions/workflows/CI_designdash.yml/badge.svg) |
 | [opengamedata-monitor](https://github.com/opengamedata/ogd-monitor)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-monitor?display_name=release)       | ![Monitor CI](https://github.com/opengamedata/ogd-monitor/actions/workflows/CI_monitorAPI.yml/badge.svg) |
 | [opengamedata-website](https://github.com/opengamedata/opengamedata-website)    | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-website?display_name=release)       | ![website CI](https://github.com/opengamedata/opengamedata-website/actions/workflows/CI_website.yml/badge.svg) |
+| [opengamedata-platform](https://github.com/opengamedata/opengamedata-platform) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release) |
 
 ### Data Logging Tools
 
