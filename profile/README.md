@@ -17,7 +17,7 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | [opengamedata-core](https://github.com/opengamedata/ogd-core)     | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-core?display_name=release)   | ![Core CI](https://github.com/opengamedata/opengamedata-core/actions/workflows/CI_OGD.yml/badge.svg) |
 | [opengamedata-doc](https://github.com/opengamedata/ogd-doc) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-doc?display_name=release) | ![Docs CI](https://github.com/opengamedata/ogd-doc/actions/workflows/publish_gh_pages.yml/badge.svg)   |
 | [opengamedata-media-package](https://github.com/opengamedata/opengamedata-media-package) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-media-package?display_name=release) | N/A |
-| [opengamedata-standards](https://github.com/opengamedata/opengamedata-standards) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-standards?display_name=release) | N/A |
+| [opengamedata-standards](https://github.com/opengamedata/ogd-standards) | ![GitHub Release](https://img.shields.io/github/v/release/opengamedata/ogd-standards?display_name=release) | N/A |
 
 ### Analysis Tools
 
