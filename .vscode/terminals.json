@@ -1,0 +1,17 @@
+{
+   "autorun": false,
+   "autokill": true,
+   "terminals": [
+      {
+         "name": "git profile",
+         "description": "git-bash for the .github profile project.",
+         "icon": "git-branch",
+         "color": "terminal.ansiBrightBlack",
+         "cwd": "~/Documents/_work/OpenGameData/.github",
+         "focus": true,
+         "recycle": true,
+         "shellPath": "/bin/bash",
+         "shellArgs": ["--rcfile", "~/.config/bash/profiles/.gitbashrc"]
+      }
+   ]
+}
