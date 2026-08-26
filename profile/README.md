@@ -82,14 +82,14 @@ Open Game Data is an open-source and community-maintained technology for conduct
 
 ### Web APIs
 
-| Project                                 | Base URL                  | Latest Release                        | CI Script Status |
-| ---                                     | ---                       | ---                                   | ---              |
-| [CodingAPI][coding-link]                |                           | ![GitHub Release][coding-release]     | ![Coding CI][coding-ci] |
-| [DataAPI][data-link]                    |                           | ![GitHub Release][data-release]       | ![DataAPI CI][data-ci] |
-| [FileAPI][files-link]                   | [FileAPI URL][files-live] | ![GitHub Release][files-release]      | ![FileAPI CI][files-ci] |
-| [GameStateAPI][gamestates-link]         |                           | ![GitHub Release][gamestates-release] | ![GameStateAPI CI][gamestates-ci] |
-| [QuestionnaireAPI][questions-link]      |                           | ![GitHub Release][questions-release]  | ![QuestionnaireAPI CI][questions-ci] |
-| [APIUtils][utils-link]                  |                           | ![GitHub Release][utils-release]      | ![APIUtils CI][utils-ci] |
+| Project                            | Base URL                  | Latest Release                       | CI Script Status |
+| ---                                | ---                       | ---                                  | ---              |
+| [CodingAPI][coding-link]           |                           | ![GitHub Release][coding-release]    | ![Coding CI][coding-ci] |
+| [DataAPI][data-link]               |                           | ![GitHub Release][data-release]      | ![DataAPI CI][data-ci] |
+| [FileAPI][files-link]              | [FileAPI URL][files-live] | ![GitHub Release][files-release]     | ![FileAPI CI][files-ci] |
+| [PlayersAPI][players-link]         |                           | ![GitHub Release][players-release]   | ![PlayersAPI CI][players-ci] |
+| [QuestionnaireAPI][questions-link] |                           | ![GitHub Release][questions-release] | ![QuestionnaireAPI CI][questions-ci] |
+| [APIUtils][utils-link]             |                           | ![GitHub Release][utils-release]     | ![APIUtils CI][utils-ci] |
 
 [coding-link]: https://github.com/opengamedata/ogd-api-coding
 [coding-release]: https://img.shields.io/github/v/release/opengamedata/ogd-api-coding?display_name=release
@@ -101,9 +101,9 @@ Open Game Data is an open-source and community-maintained technology for conduct
 [files-live]: ogd-services.fielddaylab.wisc.edu/apis/files/latest/app.wsgi
 [files-release]: https://img.shields.io/github/v/release/opengamedata/ogd-api-files?display_name=release
 [files-ci]: https://github.com/opengamedata/ogd-api-files/actions/workflows/CI_FileAPI.yml/badge.svg
-[gamestates-link]: https://github.com/opengamedata/ogd-api-gamestates
-[gamestates-release]: https://img.shields.io/github/v/release/opengamedata/ogd-api-gamestates?display_name=release
-[gamestates-ci]: https://github.com/opengamedata/ogd-api-gamestates/actions/workflows/CI_GameStateAPI.yml/badge.svg
+[players-link]: https://github.com/opengamedata/ogd-api-players
+[players-release]: https://img.shields.io/github/v/release/opengamedata/ogd-api-players?display_name=release
+[players-ci]: https://github.com/opengamedata/ogd-api-players/actions/workflows/CI_PlayerAPI.yml/badge.svg
 [questions-link]: https://github.com/opengamedata/ogd-api-questionnaires
 [questions-release]: https://img.shields.io/github/v/release/opengamedata/ogd-api-questionnaires?display_name=release
 [questions-ci]: https://github.com/opengamedata/ogd-api-questionnaires/actions/workflows/questionnaireAPI_CI.yml/badge.svg
