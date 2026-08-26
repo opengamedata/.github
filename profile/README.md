@@ -4,7 +4,7 @@ Open Game Data is an open-source and community-maintained technology for conduct
 
 ## OpenGameData Platform Version
 
-![GitHub Release](https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release)
+26.08
 
 ## Organization Project Versions
 
