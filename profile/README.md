@@ -2,9 +2,9 @@
 
 Open Game Data is an open-source and community-maintained technology for conducting design research with educational game data.
 
-## Organization Project Versions
+## Software Libraries & Tools
 
-### Cross-Organization Projects
+### Cross-Cutting Libraries
 
 | Project                                  | Latest Release                       | CI Script Status |
 | ---                                      | ---                                  | ---              |
@@ -13,6 +13,7 @@ Open Game Data is an open-source and community-maintained technology for conduct
 | [opengamedata-doc][doc-link]             | ![GitHub Release][doc-release]       | ![Docs CI][doc-ci]   |
 | [opengamedata-media-package][media-link] | ![GitHub Release][media-release]     | N/A |
 | [opengamedata-standards][standards-link] | ![GitHub Release][standards-release] | N/A |
+| [OGDUtils][ogdutils-link]                | ![GitHub Release][ogdutils-release]  | ![OGDUtils CI][ogdutils-ci] |
 
 [common-link]: https://github.com/opengamedata/ogd-common
 [common-release]: https://img.shields.io/github/v/release/opengamedata/ogd-common?display_name=release
@@ -27,31 +28,19 @@ Open Game Data is an open-source and community-maintained technology for conduct
 [media-release]: https://img.shields.io/github/v/release/opengamedata/opengamedata-media-package?display_name=release
 [standards-link]: https://github.com/opengamedata/ogd-standards
 [standards-release]: https://img.shields.io/github/v/release/opengamedata/ogd-standards?display_name=release
-
-### Analysis Tools
-
-| Project                              | Latest Release                      | CI Script Status |
-| ---                                  | ---                                 | ---              |
-|                                      |                                     |                  |
-| [opengamedata-samples][samples-link] | ![GitHub Release][samples-release]  | N/A              |
-| [OGDUtils][ogdutils-link]            | ![GitHub Release][ogdutils-release] | ![OGDUtils CI][ogdutils-ci] |
-
-[samples-link]: https://github.com/opengamedata/ogd-samples
-[samples-release]: https://img.shields.io/github/v/release/opengamedata/ogd-samples?display_name=release
 [ogdutils-link]: https://github.com/opengamedata/OGDUtils
 [ogdutils-release]: https://img.shields.io/github/v/release/opengamedata/ogd-OGDUtils?display_name=release
 [ogdutils-ci]: https://github.com/opengamedata/OGDUtils/actions/workflows/CI_OGDUtils.yml/badge.svg
 
-### Web-Based Tools
+### Visualization & Analysis Tools
 
 | Project                                    | Latest Release                        | CI Script Status |
 | ---                                        | ---                                   | ---              |
-|                                            |                                       |                  |
 | [opengamedata-autocoder][autocoder-link]   | ![GitHub Release][autocoder-release]  | ![Autocoder CI][autocoder-ci] |
 | [opengamedata-designdash][designdash-link] | ![GitHub Release][designdash-release] | ![DesignDash CI][designdash-ci] |
-| [opengamedata-monitor][monitor-link]       | ![GitHub Release][monitor-release]    | ![Monitor CI][monitor-ci] |
 | [opengamedata-website][website-link]       | ![GitHub Release][website-release]    | ![website CI][website-ci] |
-| [opengamedata-platform][platform-link]     | ![GitHub Release][platform-release]   | N/A |
+| [opengamedata-platform][platform-link]     | ![GitHub Release][platform-release]   | N/A              |
+| [opengamedata-samples][samples-link]       | ![GitHub Release][samples-release]    | N/A              |
 
 [autocoder-link]: https://github.com/opengamedata/ogd-autocoder
 [autocoder-release]: https://img.shields.io/github/v/release/opengamedata/ogd-autocoder?display_name=release
@@ -59,25 +48,27 @@ Open Game Data is an open-source and community-maintained technology for conduct
 [designdash-link]: https://github.com/opengamedata/ogd-designdash
 [designdash-release]: https://img.shields.io/github/v/release/opengamedata/ogd-designdash?display_name=release
 [designdash-ci]: https://github.com/opengamedata/ogd-designdash/actions/workflows/CI_designdash.yml/badge.svg
-[monitor-link]: https://github.com/opengamedata/ogd-monitor
-[monitor-release]: https://img.shields.io/github/v/release/opengamedata/ogd-monitor?display_name=release
-[monitor-ci]: https://github.com/opengamedata/ogd-monitor/actions/workflows/CI_monitorAPI.yml/badge.svg
 [website-link]: https://github.com/opengamedata/opengamedata-website
 [website-release]: https://img.shields.io/github/v/release/opengamedata/opengamedata-website?display_name=release
 [website-ci]: https://github.com/opengamedata/opengamedata-website/actions/workflows/CI_website.yml/badge.svg
 [platform-link]: https://github.com/opengamedata/opengamedata-platform
 [platform-release]: https://img.shields.io/github/v/release/opengamedata/opengamedata-platform?display_name=release
+[samples-link]: https://github.com/opengamedata/ogd-samples
+[samples-release]: https://img.shields.io/github/v/release/opengamedata/ogd-samples?display_name=release
 
 ### Data Logging Tools
 
-| Project                     | Latest Release | CI Script Status |
-| ---                         | ---            | ---              |
-|                             |                |                  |
-| [opengamedata-logger][logger-link]          | ![GitHub Release][logger-release] | ![Logger CI][logger-ci] |
-| [opengamedata-automation][automation-link]  | ![GitHub Release][automation-release] | N/A |
-| [opengamedata-js-log][js-log-link] | ![GitHub Release][js-log-release] | ![NPM Publish][js-log-ci] |
-| [opengamedata-unity][unity-link]   | ![GitHub Release][unity-release]  | N/A |
+| Project                                    | Latest Release                        | CI Script Status |
+| ---                                        | ---                                   | ---              |
+| [opengamedata-monitor][monitor-link]       | ![GitHub Release][monitor-release]    | ![Monitor CI][monitor-ci] |
+| [opengamedata-logger][logger-link]         | ![GitHub Release][logger-release]     | ![Logger CI][logger-ci] |
+| [opengamedata-automation][automation-link] | ![GitHub Release][automation-release] | N/A |
+| [opengamedata-js-log][js-log-link]         | ![GitHub Release][js-log-release]     | ![NPM Publish][js-log-ci] |
+| [opengamedata-unity][unity-link]           | ![GitHub Release][unity-release]      | N/A |
 
+[monitor-link]: https://github.com/opengamedata/ogd-monitor
+[monitor-release]: https://img.shields.io/github/v/release/opengamedata/ogd-monitor?display_name=release
+[monitor-ci]: https://github.com/opengamedata/ogd-monitor/actions/workflows/CI_monitorAPI.yml/badge.svg
 [logger-link]: https://github.com/opengamedata/ogd-logger
 [logger-release]: https://img.shields.io/github/v/release/opengamedata/ogd-logger?display_name=release
 [logger-ci]: https://github.com/opengamedata/ogd-logger/actions/workflows/CI_logger.yml/badge.svg
@@ -120,8 +111,7 @@ Open Game Data is an open-source and community-maintained technology for conduct
 [utils-release]: https://img.shields.io/github/v/release/opengamedata/ogd-api-utils?display_name=release
 [utils-ci]: https://github.com/opengamedata/ogd-api-utils/actions/workflows/CI_APIUtils.yml/badge.svg
 
-
-## Organization Actions
+## Organization GitHub Actions
 
 | Action                                                              | Latest Release                                       |
 | ---                                                                 | ---                                                  |
