@@ -2,10 +2,6 @@
 
 Open Game Data is an open-source and community-maintained technology for conducting design research with educational game data.
 
-## OpenGameData Platform Version
-
-26.08
-
 ## Organization Project Versions
 
 ### Cross-Organization Projects
